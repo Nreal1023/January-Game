@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Logo
+  - RedRazers
+  - BlueRazers
+  - RedBox
+  - BlueBox
+  - OutofMap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - PostForce
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2827550981
+    locked: 0
+  - name: Razer
+    uniqueID: 1821044459
+    locked: 0
+  - name: Particle
+    uniqueID: 1122695861
+    locked: 0
+  - name: Player
+    uniqueID: 77307501
+    locked: 0
